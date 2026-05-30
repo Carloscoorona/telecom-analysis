@@ -86,5 +86,12 @@ La empresa podría beneficiarse de estrategias diferenciadas para:
 
 1. Clonar el repositorio.
 
-```bash
-git clone https://github.com/TU_USUARIO/telecom-analysis-conectatel.git
+git clone https://github.com//telecom-analysis-conectatel.git
+
+2. Abrir el notebook en jupyter notebook.
+3. Instala pandas, matplotlib.pyplot, seaborn y nunmpy 
+4. Coloca los datasets en:
+   plans = pd.read_csv('/datasets/plans.csv')
+  users = pd.read_csv('/datasets/users_latam.csv') 
+  usage = pd.read_csv('/datasets/usage.csv')
+5. Estoy algo perdido con esta parte, espero que quien revise mi proyecto pueda ayudarme con Github, aun se me hace muy complicado.
